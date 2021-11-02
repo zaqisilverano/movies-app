@@ -1,4 +1,4 @@
-# jibble-movies-app
+# movies-app
 
 ## Project setup
 ```
